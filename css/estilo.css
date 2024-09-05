@@ -1,0 +1,242 @@
+.caja
+{
+    background-color: wheat;
+    width: 100px; height: 100px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    transform: rotate(45deg);
+}
+.caja7
+{
+    background-color: yellow;
+    width: 200px; height: 200px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+.caja7-1
+{
+    background-color: purple;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+.caja7-2
+{
+    background-color: purple;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 150 px;
+    right: 30px;
+    top: 50px;
+}
+.ojo1
+{
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: 17px;
+    top: 17px;
+}
+.ojo2
+{
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: 17px;
+    top: 17px;
+}
+.nariz
+{
+    background-color: orange;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 120px;
+    left: 85px;
+    border-radius: 30px;
+}
+.boca
+{
+    background-color: purple;
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    top: 160px;
+    left: 50px;
+}
+.antena
+{
+    background-color: purple;
+    width: 5px;
+    height: 50px;
+    position: absolute;
+    top: 80px;
+    left: 300px;
+}
+.oreja1
+{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    top: 70px;
+    border-radius: 50px;
+}
+.oreja2
+{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 200px;
+    top: 70px;
+    border-radius: 50px;
+}
+.caja1
+{
+    background-color: yellow;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    left: 280px;
+    top: 50px;
+}
+.cuerpo
+{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 45px;
+    left: 200px;
+}
+.f1
+{
+    background-color: green;
+    width: 170px;
+    height: 40px;
+    position: absolute;
+    top: 30px;
+    left: 15px;
+}
+.f2
+{
+    background-color: green;
+    width: 170px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    left: 15px;
+}
+.q
+{
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top:45px;
+    left: 225px;
+}
+.ab
+{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 45px;
+    left: 150px;
+}
+.b1
+{
+    background-color: purple;
+    width: 250px;
+    height: 20px;
+    border-radius: 20px;
+    position: absolute;
+    right: 160px;
+    transform: rotate(45deg);
+    bottom: 250px;
+}
+.b2
+{
+    background-color: purple;
+    width: 250px;
+    height: 20px;
+    border-radius: 20px;
+    position: absolute;
+    left: 160px;
+    transform: rotate(-45deg);
+    bottom: 250px;
+}
+.d1
+{
+    background-color: purple;
+    width: 30px;
+    height: 10px;
+    position: absolute;
+    top: 20px;
+    left: -20px;
+    transform: rotate(-45deg);
+    border-radius: 20px;
+}
+.d2
+{
+    background-color: purple;
+    width: 30px;
+    height: 10px;
+    position: absolute;
+    top: 5px;
+    left: -20px;
+    transform: rotate(10deg);
+    border-radius: 20px;
+}
+.d3
+{
+    background-color: purple;
+    width: 30px;
+    height: 10px;
+    position: absolute;
+    top: -10px;
+    left: -15px;
+    transform: rotate(60deg);
+    border-radius: 20px;
+}
+.di1
+{
+    background-color: purple;
+    width: 30px;
+    height: 10px;
+    position: absolute;
+    top: 20px;
+    left: 230px;
+    transform: rotate(-120deg);
+    border-radius: 20px;
+}
+.di2
+{
+    background-color: purple;
+    width: 30px;
+    height: 10px;
+    position: absolute;
+    top: 5px;
+    left: 240px;
+    transform: rotate(20deg);
+    border-radius: 20px;
+}
+.di3
+{
+    background-color: purple;
+    width: 30px;
+    height: 10px;
+    position: absolute;
+    top: -10px;
+    left: 230px;
+    transform: rotate(120deg);
+    border-radius: 20px;
+}
